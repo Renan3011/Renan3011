@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá, eu sou o Renan 👋
 
-<!--
-**Renan3011/Renan3011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Análise e Desenvolvimento de Sistemas  
+🌐 Focado em desenvolvimento Web  
+📚 Atualmente aprendendo HTML, CSS e JavaScript  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias que estou aprendendo
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+![GitHubStats](https://github-readme-stats.vercel.app/api?username=Renan3011&show_icons=true&theme=tokyonight)
+
+
+![TopLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=Renan3011&layout=compact&theme=tokyonight)
+---
+
+## 📫 Contato
+
+📧 renancassoli423@gmail.com  
+💼 LinkedIn: (coloque aqui o link do seu LinkedIn)
