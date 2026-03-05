@@ -28,4 +28,6 @@
 ## 📫 Contato
 
 📧 renancassoli423@gmail.com  
-💼 LinkedIn: (coloque aqui o link do seu LinkedIn)
+💼 LinkedIn: www.linkedin.com/in/renan3010
+
+
