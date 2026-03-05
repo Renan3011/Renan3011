@@ -15,10 +15,14 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
-![GitHubStats](https://github-readme-stats.vercel.app/api?username=Renan3011&show_icons=true&theme=tokyonight)
+## 🚀 Projetos
 
+🔹 [Tela de Login HTML e CSS](https://renan3011.github.io/Novo-formulario-HTML5-CSS3/)
 
-![TopLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=Renan3011&layout=compact&theme=tokyonight)
+🔹 [Repositório do Projeto](https://github.com/Renan3011/Novo-formulario-HTML5-CSS3)
+
+🔹 [Projeto Login](https://github.com/Renan3011/Projeto-login)
+
 ---
 
 ## 📫 Contato
